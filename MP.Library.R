@@ -1,25 +1,4 @@
-########################################################################################################
-# The Broad Institute
-# SOFTWARE COPYRIGHT NOTICE AGREEMENT
-# This software and its documentation are copyright 2007 by the
-# Broad Institute/Massachusetts Institute of Technology.
-# All rights are reserved.                                         
-#
-# This software is supplied without any warranty or guaranteed support
-# whatsoever. Neither the Broad Institute nor MIT can be responsible for
-# its use, misuse, or functionality.
-########################################################################################################
-# Library of R functions implementing:
-#
-# Metagene projection for cross-platform, cross-species characterization of global transcriptional states
-# P. Tamayo, D. Scanfeld, B. L. Ebert, M. A. Gillette, C. W. M. Roberts, and J.P. Mesirov  
-# Proc. Natl. Acad. Sci. USA, 104: 5959-5964 2007. http://www.pnas.org/cgi/content/abstract/0701068104v1
-#
-# Author: Pablo Tamayo  -  April 12, 2007
-# The function "MetaGene.Projection" below implement most of the method described in the
-# paper.
-# The GSEA analysis of the resulting metagenes and analysis of different choices for k (model selection)
-# are implemented using separate functions and scripts.
+# Library of R functions implementing: Proc. Natl. Acad. Sci. USA, 104: 5959-5964 2007. http://www.pnas.org/cgi/content/abstract/0701068104v1
 #
 # While running "MetaGene.Projection" will produce the following output files:
 #
